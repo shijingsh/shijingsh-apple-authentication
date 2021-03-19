@@ -1,6 +1,6 @@
 {
   "name": "shijingsh-apple-authentication",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "apple-authentication",
   "main": "index.js",
   "scripts": {
